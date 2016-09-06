@@ -1,0 +1,12 @@
+参考资料：
+    https://zhuanlan.zhihu.com/p/21643475
+
+
+更新进度：
+    2016/9/6 hello-word.py 新建word 文档
+    2016/9/7 word-Image.py 在word内画图
+
+
+错误及解决方法：
+    1. The _imaging C module is not installed
+    http://blog.csdn.net/tianxiawuzhei/article/details/44922843  下载并安装pillow
